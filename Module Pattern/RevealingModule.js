@@ -1,4 +1,4 @@
-ar myRevealingModule = (function () {
+var myRevealingModule = (function () {
  
     // private members
     // not yet exposed.
